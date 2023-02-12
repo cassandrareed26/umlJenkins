@@ -13,7 +13,7 @@ volumes: [
       claimName: 'jenkins-pv-claim', 
       readOnly: false
       )
-  ])
+  ]
 
 {
 
